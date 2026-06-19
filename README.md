@@ -1,6 +1,6 @@
-# [Your Project Name]
+# [Your Project Name] flytitfy edited by Mayelle
 
-> [One sentence about your project - e.g. "A web app where users pick a brochure template, customise it with their brand info, and get a printable brochure."]
+> [One sentence about your project - e.g. "A web app where users pick a brochure template, customise it with their brand info, and get a printable brochure of thier own."]
 
 **This is a learning project.** Every file is intentionally incomplete. Your job is to open each one, understand it, and make it your own. If a file works without you touching it, we didn't do our job right - [let us know]([link-to-issues]).
 

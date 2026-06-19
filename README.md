@@ -1,4 +1,4 @@
-# [Your Project Name] flytitfy edited by Mayelle
+#flytify [This App allows or permits users to choose brochure template .] task partially completed by Mayelle Kentsop -SWE Department
 
 > [One sentence about your project - e.g. "A web app where users pick a brochure template, customise it with their brand info, and get a printable brochure of thier own."]
 

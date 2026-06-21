@@ -17,8 +17,8 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    color: #333333;
-    background: #ffffff;
+    color: #F7D6E0;
+    background: #D4AF37;
     line-height: 1.6;
 }
 
@@ -28,7 +28,7 @@ img {
 }
 
 a {
-    color: #3B82F6;
+    color: #0A2342;
     text-decoration: none;
 }
 
@@ -47,7 +47,7 @@ a:hover {
 /* ─── Header ─────────────────────────────── */
 
 .header {
-    background: #ffffff;
+    background: #B76E79;
     border-bottom: 1px solid #e0e0e0;
     padding: 15px 0;
 }
